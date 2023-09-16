@@ -1,0 +1,148 @@
+{
+    "Restaurantes": [
+        {
+            "nombre": "LOS TROMPOS MEXICANOS",
+            "tipo": "Taqueria",
+            "direccion": "38 entre 25 y 23 num 68 alado del hotel yaakunah col.salsipuedes1, Sal Si Puedes I, 24350 Escárcega, Camp.",
+            "telefono": "+52 982 108 2032",
+            "horario": "08:00 - 21:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPQmysPXb9NJSzBgDi16am_5l4IUFEs_fHDGr2S=w493-h240-k-no"
+        },
+        {
+            "nombre": "El alebrije",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 33-A 967, 10 de Mayo, 24350 Escárcega, Camp.",
+            "telefono": "",
+            "horario": "08:00 - 21:00",
+            "calificacion": 5,
+            "urlImagen": ""
+        },
+        {
+            "nombre": "LONCHERIA EL NUEVO MUNDO",
+            "tipo": "Comida Mexicana",
+            "direccion": "Calle 34-a & De La 34 B, Jesús García, 24350 Escárcega, Camp.",
+            "telefono": "+52 982 824 0448",
+            "horario": "08:00 - 03:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNoKYhHJEOLCcn6_JI_53Hl8AbbA4A1Q0aqSLv_=w425-h240-k-no"
+        },
+        {
+            "nombre": "Restaurante & cockteleria familiar los 3 magañas",
+            "tipo": "Comida Mexicana",
+            "direccion": "Avenida justo sierra mendez entre, C. 23 y 25, 24350 Escárcega, Camp.",
+            "telefono": "+52 982 824 0748",
+            "horario": "08:00 - 17:00",
+            "calificacion": 3,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMPmndSAzuUoKkQPxC0NRuG4HrRnQ3Aw3LFnBey=w426-h240-k-no"
+        },
+        {
+            "nombre": "Doña Lucy Cocina Económica",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 42, Flores Magón, 24350 Escárcega, Camp.",
+            "telefono": "+52 982 824 0748",
+            "horario": "09:30 - 20:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipM7KLgTBDvQuy_CMjTavAx41PlJ_iykG6-RexQ=w426-h240-k-no"
+        },
+        {
+            "nombre": "Restaurante La Teja",
+            "tipo": "Comida Mexicana",
+            "direccion": "Carretera Escarcega-Villahermosa km 1.5, Solidaridad s/n, entre calle 55 y 26, Lic Carlos Salinas de Gortari, 24350 Escárcega, Camp.",
+            "telefono": "+52 982 824 0635",
+            "horario": "07:00 - 07:00",
+            "calificacion": 3,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipP3XOQTxuqNabiks-zkPET-eoGxhC9r_d3e3A2H=w408-h544-k-no"
+        },
+        {
+            "nombre": "Donde quieras",
+            "tipo": "Comida Mexicana",
+            "direccion": "No. II, Camp, Esfuerzo y Trabajo, Héctor Pérez Martínez 124, Unidad Esfuerzo y Trabajo II, 24350 Escárcega, Camp.",
+            "telefono": "+52 981 141 3745",
+            "horario": "07:00 - 24:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNcJ1sF90AwuhzpaI_hpZzv7gcVsuo0Mk6wTMXZ=w408-h306-k-no"
+        },
+        {
+            "nombre": "Poc Chuc Garage",
+            "tipo": "Carnitas",
+            "direccion": "C. 31 42, Sal Si Puedes I, 24350 Escárcega, Camp.",
+            "telefono": "+52 982 102 5353",
+            "horario": "12:00 - 18:00",
+            "calificacion": 5,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPvtAaUQcsxuotuF63MHX4hFHvl7kIsKyTIJpiv=w408-h544-k-no"
+        },
+        {
+            "nombre": "Hamburguesas al carbón 'Perla'",
+            "tipo": "Hamburguesas y snacks",
+            "direccion": "unos pasos de las fias de ferrocarril, Justo Sierra Méndez entre 31 B y 31 C frente a moto zond, A, 24350 Escárcega, Camp.",
+            "telefono": "+52 982 107 9839",
+            "horario": "06:00 - 23:30",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNlnWs0MulJVpIwMt14B5qGFeTX2EpWdrvifB4w=w408-h306-k-no"
+        },
+        {
+            "nombre": "Restaurante La Jarochita'",
+            "tipo": "Mariscos y pescados",
+            "direccion": "Héctor Pérez Martínez 353, Esperanza, 24350 Escárcega, Camp.",
+            "telefono": "+52 982 824 0627",
+            "horario": "08:30 - 18:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPiDWgTkzPd78Vgw6vYx_6kxkMI6O06uJdA4l1A=w408-h306-k-no"
+        },
+        {
+            "nombre": "Utopía restaurante",
+            "tipo": "Comida Mexicana",
+            "direccion": "mendez a unos pasos de la comisaría ejidal, Av justo Sierra Méndez entre calle 39 y30, Av.justo sierra a, 24350 Escárcega, Camp.",
+            "telefono": "+52 982 822 2627",
+            "horario": "13:00 - 23:30",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNLSMT929wJCy9RAfhXX3Q7U1jQffQWS9jl_kz2=w408-h725-k-no"
+        },
+        {
+            "nombre": "Madre Tierra Restaurant",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 26 27, Zona Centro, 24350 Escárcega, Camp.",
+            "telefono": "+52 982 113 1184",
+            "horario": "09:00 - 23:00",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IZ7bCBqAxxu_lSwZ86yo8A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=66.6433&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Carnitas Estilo Michoacanas 'EL MEXICANO'",
+            "tipo": "Carnitas",
+            "direccion": "Calle 25 & Calle 38, Sal Si Puedes I, 24350 Escárcega, Camp.",
+            "telefono": "+52 982 100 7191",
+            "horario": "07:30 - 18:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPC3JlOHsOuK-8aC-gGszt4juXwLD2HANCoWBVu=w408-h344-k-no"
+        },
+        {
+            "nombre": "Enjamonados Don Pedro",
+            "tipo": "Enjamonados",
+            "direccion": "Calle 37 entre 42 y 44 Col, 10 de Mayo, 24350 Escárcega, Camp.",
+            "telefono": "+52 982 829 1392",
+            "horario": "",
+            "calificacion": 1,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOQWsZZDRB0k2XX1gH8zBYYVjIA8VjyryTvcq4o=w408-h544-k-no"
+        },
+        {
+            "nombre": "El borregon",
+            "tipo": "Barbacoa",
+            "direccion": "24350, Benito Juárez, 24350 Escárcega, Camp.",
+            "telefono": "+52 982 109 8744",
+            "horario": "07:00 - 02:30",
+            "calificacion": 1,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOXg6RQUUJBbTcDQiTqRVmYLdQ7g-Dgw6oVsOMd=w408-h408-k-no"
+        },
+        {
+            "nombre": "Cockteleria 'HIPOCAMPO'",
+            "tipo": "Mariscos y pescados",
+            "direccion": "24350, Justo Sierra Méndez 267, Morelos, Escárcega, Camp.",
+            "telefono": "",
+            "horario": "08:00 - 17:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipN9ENrMl9W7_lsWRgLp-mBz1YquI6rj-FalIB8u=w493-h240-k-no"
+        }
+    ]
+}

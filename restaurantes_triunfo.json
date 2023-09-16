@@ -1,0 +1,148 @@
+{
+    "Restaurantes": [
+        {
+            "nombre": "El Sabor Tabasqueño - Sabor que nos caracteriza",
+            "tipo": "Comida Mexicana",
+            "direccion": "Calle Miguel Hidalgo, El Tigre, 86950 El Triunfo, Tab.",
+            "telefono": "+52 934 123 6908",
+            "horario": "08:00 - 16:00",
+            "calificacion": 5,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPIyfoS5v7FY828dL1uBJnJq9TZdYgd9LACdIuQ=w408-h544-k-no"
+        },
+        {
+            "nombre": "Restaurant La Esquinita",
+            "tipo": "Brunch",
+            "direccion": "C. 27 de Febrero 882, Villa El Triunfo, 86950 El Triunfo, Tab.",
+            "telefono": "+52 997 100 3099",
+            "horario": "07:00 - 17:00",
+            "calificacion": 1,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=48-SUmPk-IykbLMlZEntDA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=302.17377&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Restaurant Los Portales",
+            "tipo": "Comida Mexicana",
+            "direccion": "Benito Juárez, Villa El Triunfo, 86950 El Triunfo, Tab.",
+            "telefono": "+52 993 300 6726",
+            "horario": "09:30 - 17:00",
+            "calificacion": 1,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNPeSbtVtalQ_tyaq0f5nI63qlIdmRf49n8DyWR=w427-h240-k-no"
+        },
+        {
+            "nombre": "Antojitos Doña Licha",
+            "tipo": "Comida Mexicana",
+            "direccion": "Villa El Triunfo, 86950 El Triunfo, Tab.",
+            "telefono": "",
+            "horario": "",
+            "calificacion": 1,
+            "urlImagen": ""
+        },
+        {
+            "nombre": "Lonchería Damas",
+            "tipo": "Comida Mexicana",
+            "direccion": "Villa El Triunfo, 86950 El Triunfo, Tab.",
+            "telefono": "",
+            "horario": "",
+            "calificacion": 1,
+            "urlImagen": ""
+        },
+        {
+            "nombre": "El borregazo",
+            "tipo": "Barbacoa",
+            "direccion": "Miguel Hidalgo y Costilla, Villa El Triunfo, 86950 El Triunfo, Tab.",
+            "telefono": "",
+            "horario": "",
+            "calificacion": 3,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOpyU3jWBzjl2LKXuzZspgXVM-DhgmsDj8Kd6Ve=w532-h240-k-no"
+        },
+        {
+            "nombre": "Comedor Lupita",
+            "tipo": "Comida Mexicana",
+            "direccion": "Villa El Triunfo, 86950 El Triunfo, Tab.",
+            "telefono": "+52 934 102 5711",
+            "horario": "07:00 - 21:00",
+            "calificacion": 5,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOzwzQIr_GFRxyoIsQcOh0hnYGEMvvPkQq3Vu8I=w426-h240-k-no"
+        },
+        {
+            "nombre": "Taquería 'El Toache'",
+            "tipo": "Taqueria",
+            "direccion": "Niños Heroes LB, Villa El Triunfo, 86950 El Triunfo, Tab.",
+            "telefono": "",
+            "horario": "15:00 - 22:00",
+            "calificacion": 1,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPlr8POeUAGEVkp8tj0RNGG_WopNBo6qhkcF6ys=w408-h725-k-no"
+        },
+        {
+            "nombre": "ANTOJITOS 'LAS FLORES'",
+            "tipo": "Comida Mexicana",
+            "direccion": "Gregorio Méndez Magaña 425, Villa El Triunfo, 86950 El Triunfo, Tab.",
+            "telefono": "+52 934 102 1495",
+            "horario": "",
+            "calificacion": 1,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOQOu-wfU_7q9mls_PnTg9ks0WaG69iBcmiHMrT=w408-h884-k-no"
+        },
+        {
+            "nombre": "Taquería El Tío Beto",
+            "tipo": "Taqueria",
+            "direccion": "Calle, Cristóbal Colón, Colonia Las Flores, Villa El Triunfo, 86950 El Triunfo, Tab.",
+            "telefono": "",
+            "horario": "18:00 - 22:30",
+            "calificacion": 5,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNzrt9BMv176Hx1cWv2UzwBHBTKpOLevZz6MwjK=w408-h306-k-no"
+        },
+        {
+            "nombre": "Mariscos Danny",
+            "tipo": "Mariscos y pescado",
+            "direccion": "86950 Col, El Pedregal, 86950 El Triunfo, Tab.",
+            "telefono": "+52 934 115 0676",
+            "horario": "07:00 - 22:00",
+            "calificacion": 3,
+            "urlImagen": ""
+        },
+        {
+            "nombre": "Taqueria 'El Calderón'",
+            "tipo": "Taqueria",
+            "direccion": "Niños Heroes 981, Villa El Triunfo, 86950 El Triunfo, Tab.",
+            "telefono": "+52 934 104 2410",
+            "horario": "06:30 - 24:00",
+            "calificacion": 5,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNw-4q74X8lmKiVnLP3c3w4DNFbN3I4lIgjtjHN=w426-h240-k-no"
+        },
+        {
+            "nombre": "Hamburguesas Doña Mago",
+            "tipo": "Hamburguesas y snacks",
+            "direccion": "Francisco Villa, Villa El Triunfo, 86950 El Triunfo, Tab.",
+            "telefono": "+52 934 105 5618",
+            "horario": "06:30 - 22:30",
+            "calificacion": 3,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNSK1Ww4rcn6snnYLPyefPB_z-N87Q6vaKnwWVv=w408-h306-k-no"
+        },
+        {
+            "nombre": "Pizzería La Peque",
+            "tipo": "Pizzeria",
+            "direccion": "Tomas Garrido Canabal LB, Villa El Triunfo, 86950 El Triunfo, Tab.",
+            "telefono": "",
+            "horario": "11:00 - 22:00",
+            "calificacion": 3,
+            "urlImagen": ""
+        },
+        {
+            "nombre": "Polleria El Macho Pantera",
+            "tipo": "Pollo",
+            "direccion": "86950, C. 27 de Febrero LB, Villa El Triunfo, 86950 El Triunfo, Tab.",
+            "telefono": "",
+            "horario": "",
+            "calificacion": 1,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wwfJUDHdJGazMPtL1ElcuA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=96.74994&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Hot-Dogs y Hamburguesas Doña Deysi Damas",
+            "tipo": "Hamburguesas y snacks",
+            "direccion": "Guadalupe Victoria 90, Villa El Triunfo, 86950 El Triunfo, Tab.",
+            "telefono": "+52 934 115 0765",
+            "horario": "06:30 - 23:00",
+            "calificacion": 1,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipP6GPFgU4xef9V4lc4qtiDZnrBDQwSrjHK2A-gI=w408-h306-k-no"
+        }
+    ]
+}
