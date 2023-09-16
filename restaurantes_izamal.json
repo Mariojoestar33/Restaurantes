@@ -1,0 +1,121 @@
+{
+    "Restaurantes": [
+        {
+            "nombre": "Restaurante Zamna",
+            "tipo": "Comida Mexicana",
+            "direccion": "Parque de Los Cañones, C. 31 336, Centro, 97540 Izamal, Yuc.",
+            "telefono": "+52 988 954 0204",
+            "horario": "12:00 - 20:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMDFBYjR2guaJvm0TyqOHFjuVP2uwB4hR0ewO3t=w408-h306-k-no"
+        },
+        {
+            "nombre": "Restaurante Los Arcos",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 28 292, Centro, 97540 Izamal, Yuc.",
+            "telefono": "",
+            "horario": "09:00 - 22:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNUuXzbixeBE15l1bEjj6oEmNlNti3a6IgrK96h=w426-h240-k-no"
+        },
+        {
+            "nombre": "Restaurante la palapa",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 29 304, Centro, 97540 Izamal, Yuc.",
+            "telefono": "",
+            "horario": "09:00 - 22:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMwW33B7eV-6VjwrCrAXPjIYNklgsFrTn85BWL_=w408-h544-k-no"
+        },
+        {
+            "nombre": "Restaurante Kinich Izamal",
+            "tipo": "Comida Mexicana",
+            "direccion": "Calle 27.299y 28y 30, Centro, 97540 Izamal, Yuc.",
+            "telefono": "+52 999 900 2316",
+            "horario": "12:00 - 19:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOkscVMeoTx1yc84yQ0DoX_DIThKJJ1eULGDJQI=w408-h306-k-no"
+        },
+        {
+            "nombre": "Restaurante La Conquista",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 30 #219, Guadalupe, 97540 Izamal, Yuc.",
+            "telefono": "+52 999 160 7915",
+            "horario": "12:00 - 20:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOpoDqL9m2oL8EkjhXsjn7Mfq4l3zjj6o8AP74=w408-h240-k-no-pi-0-ya304.43-ro-0-fo100"
+        },
+        {
+            "nombre": "El Toro",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 30 306, Centro, 97540 Izamal, Yuc.",
+            "telefono": "",
+            "horario": "12:00 - 20:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOhfYm1Xx-LnyV9ZcY4mIlDZ6H88V5SekI0MW4s=w426-h240-k-no"
+        },
+        {
+            "nombre": "Los Portales Restaurante",
+            "tipo": "Comida Mexicana",
+            "direccion": "Mercado municipal de Izamal, Centro, 97540 Izamal, Yuc.",
+            "telefono": "+52 988 966 7667",
+            "horario": "07:00 - 16:00",
+            "calificacion": 3,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNfhlDUt-e3Cjvs0XcSoCnnPP7KOFGTxXe75uWe=w408-h307-k-no"
+        },
+        {
+            "nombre": "Restaurant muul",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 28 300, entre 31 y 31A, Centro, 97540 Izamal, Yuc.",
+            "telefono": "+52 988 967 8006",
+            "horario": "08:00 - 22:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPdcRefGGjWpYA_eYAVoTTdoxOX1PB0nZ5q9wEe=w408-h306-k-no"
+        },
+        {
+            "nombre": "Restaurante Marisqueria La Jaiba",
+            "tipo": "Mariscos y Pescados",
+            "direccion": "C. 32 255, Guadalupe, 97540 Izamal, Yuc.",
+            "telefono": "+52 988 107 5830",
+            "horario": "11:00 - 17:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPiNJXtNlHV9sCBefcOWtwb9BMgRQwUvXxt8YvM=w408-h306-k-no"
+        },
+        {
+            "nombre": "Way que rico!! Comida Yucateca y Café",
+            "tipo": "Cafeteria",
+            "direccion": "C. 28 por 31 y 33, Centro, 97540 Izamal, Yuc.",
+            "telefono": "",
+            "horario": "11:00 - 17:00",
+            "calificacion": 3,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOzMN2H_n7TD3V3Ewe1V9pfZc2r0aivj8sw85Io=w408-h306-k-no"
+        },
+        {
+            "nombre": "Restaurante Chaltún Ha",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 30 260-x 21 y 23, Centro, 97540 Izamal, Yuc.",
+            "telefono": "+52 988 107 7886",
+            "horario": "12:00 - 22:00",
+            "calificacion": 5,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMQ7yxPBAVslShTK87eQ2aiiaiQENhBjxvqtR80=w408-h306-k-no"
+        },
+        {
+            "nombre": "Restaurante 'La malinche'",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 32 31a, Centro, 97540 Izamal, Yuc.",
+            "telefono": "",
+            "horario": "12:00 - 12:00",
+            "calificacion": 5,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jx6E9RjTEYShVHvFGtuywQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=305.1733&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "El Rinconcito Casero",
+            "tipo": "Comida Mexicana",
+            "direccion": "Calle 28 entre 19 y 19 A, Guadalupe, 97540 Izamal, Yuc.",
+            "telefono": "+52 999 117 1281",
+            "horario": "12:00 - 12:00",
+            "calificacion": 5,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOipPgrBCGOA-lfm78c22tDVX2yFoP7wv5Zag8U=w408-h544-k-no"
+        }
+    ]
+}

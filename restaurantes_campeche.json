@@ -1,0 +1,112 @@
+{
+    "Restaurantes": [
+        {
+            "nombre": "La María Cocina Peninsular",
+            "tipo": "Comida Mexicana",
+            "direccion": "Calle 8 173, Zona Centro, 24000 Campeche, Camp.",
+            "telefono": "+52 999 445 7635",
+            "horario": "13:00 - 21:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMCRX5o4UlNJPOj2lG3poHHiF1L7jxyRkfdJQXi=w408-h723-k-no"
+        },
+        {
+            "nombre": "Casa Don Gustavo Restaurant",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 59 4, Zona Centro, 24000 Campeche, Camp.",
+            "telefono": "+52 981 816 8090",
+            "horario": "08:00 - 13:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMSSUfwLQKPKBbuHTOfdyiu0GFpQPDotCSsZ2yD=w408-h270-k-no"
+        },
+        {
+            "nombre": "Restaurante Bar El Peje Rey",
+            "tipo": "Restaurante/Bar",
+            "direccion": "24050, Av Gobernadores 423a, Barrio de Sta Ana, Campeche, Camp.",
+            "telefono": "+52 981 101 4217",
+            "horario": "11:00 - 24:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMSzZ5ZfdFDol3w_EDSid2M5sND-50JcGcYDh9q=w408-h305-k-no"
+        },
+        {
+            "nombre": "Restaurant Chac pel",
+            "tipo": "Mariscos y Pescados",
+            "direccion": "Av. Lazaro Cardenas # 8, entre Marte y Niebla, Valle del Sol, 24090 Campeche",
+            "telefono": "+52 981 813 1071",
+            "horario": "11:00 - 20:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOHleErJL1PI1Rbjj3DXN1N99CqnRugrXaKGjyW=w408-h306-k-no"
+        },
+        {
+            "nombre": "LA JUSTINA - Restaurante",
+            "tipo": "Comida Mexicana",
+            "direccion": "Av López Portillo 202, Ignacio Zaragoza, 24095 Campeche, Camp.",
+            "telefono": "+52 981 812 7341",
+            "horario": "07:00 - 17:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPBEHCO2io1EkogmD0zOUkTt_4VVhmqDrm2wF9E=w408-h243-k-no"
+        },
+        {
+            "nombre": "Restaurante Morgan",
+            "tipo": "Comida Mexicana",
+            "direccion": "Av Luis Donaldo Colosio Murrieta 40, Lotificación San Juan I y II, 24050 Campeche, Camp.",
+            "telefono": "+52 981 811 7100",
+            "horario": "11:00 - 17:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMSIXdAd1gPIRMbtqNgy79fo5K0o4KzL2_ePKPL=w408-h306-k-no"
+        },
+        {
+            "nombre": "Marganzo Restaurante",
+            "tipo": "Comida Mexicana",
+            "direccion": "Calle 8 267, Zona Centro, 24000 Campeche, Camp.",
+            "telefono": "+52 981 811 3899",
+            "horario": "07:00 - 23:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipM8G6_SeQZypz7HUZt8q-YLVQCcOI1AzPXAuGJd=w408-h306-k-no"
+        },
+        {
+            "nombre": "La Olla de la Pagoda",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 10 114, Barrio de San Francisco, 24010 Campeche, Camp.",
+            "telefono": "+52 981 816 2570",
+            "horario": "08:30 - 17:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNWSg9f0vXWq-Gt38xIzTHMxSokQJlfAgvFQA2l=w408-h544-k-no"
+        },
+        {
+            "nombre": "El Sábalo",
+            "tipo": "Comida Mexicana",
+            "direccion": "Barrio de San José, 24040 Campeche, Camp.",
+            "telefono": "+52 981 117 7544",
+            "horario": "08:00 - 20:00",
+            "calificacion": 1,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPW1qqjKjg9X4KeaFo8CXFJSkTU7xgBzYQ81_WQ=w408-h412-k-no"
+        },
+        {
+            "nombre": "Restaurante Herencias",
+            "tipo": "Comida Mexicana",
+            "direccion": "Av Patricio Trueba de Regil 236, entre avenida colosio y avenida central, San Rafael, 24090 Campeche, Camp.",
+            "telefono": "+52 981 120 6797",
+            "horario": "13:00 - 22:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipP4GHOA7En-TmLIXl0ntxKYyvpTDcnYyBn6RoR-=w408-h258-k-no"
+        },
+        {
+            "nombre": "La Pigua",
+            "tipo": "Comida Mexicana",
+            "direccion": "Av. Miguel Alemán 179-A, Guadalupe, Barrio de Guadalupe, 24010 Campeche, Camp.",
+            "telefono": "+52 981 160 1684",
+            "horario": "12:00 - 22:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOTRc421JvViqN35t2a25_YIHHKh1dY9SMdKtFe=w408-h272-k-no"
+        },
+        {
+            "nombre": "Restaurant & Gallery Luz de Luna",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 59 6, Zona Centro, 24000 Campeche, Camp.",
+            "telefono": "+52 981 100 8556",
+            "horario": "13:00 - 23:00",
+            "calificacion": 3,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMGmui1hISwlPOxNS8ReECY04R8UzKLKAnXMnyV=w426-h240-k-no"
+        }
+    ]
+}

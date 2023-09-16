@@ -1,0 +1,121 @@
+{
+    "Restaurantes": [
+        {
+            "nombre": "Hacienda Teya - Fundada en 1683",
+            "tipo": "Comida Mexicana",
+            "direccion": "Merida - Peto, Hacienda, 97370 Teya, Yuc.",
+            "telefono": "+52 999 429 2431",
+            "horario": "12:00 - 18:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNrJcgbOMAm344awKqJtwHHBbEXOdiA8jIWdcEC=w408-h306-k-no"
+        },
+        {
+            "nombre": "Restaurante D Bocca",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 19 111, Centro, 97133 Mérida, Yuc.",
+            "telefono": "+52 999 948 2466",
+            "horario": "12:00 - 18:00",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=--uD08IClUgn22A1__0oQQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=77.28308&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Las patronas",
+            "tipo": "Comida Mexicana",
+            "direccion": "Calle16A no.300 53y 53a, Francisco Villa Oriente, 97370 Mérida, Yuc.",
+            "telefono": "+52 999 641 2087",
+            "horario": "09:00 - 16:00",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=D7fHNmk9FjVhRJTd8Khqqg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=153.81635&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Cocina Económica El buen Sabor",
+            "tipo": "Cafeteria",
+            "direccion": "WFG7+26 Calle17E #117D2 gran san jose, 97370 Kanasín, Yuc.",
+            "telefono": "",
+            "horario": "09:00 - 24:00",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=D7fHNmk9FjVhRJTd8Khqqg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=153.81635&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Cocina Economica Doña Tere",
+            "tipo": "Cafeteria",
+            "direccion": "entre 6 y 8, Merida - Valladolid, Amalia Solorzano III, 97370 Kanasín, Yuc.",
+            "telefono": "",
+            "horario": "07:00 - 21:00",
+            "calificacion": 3,
+            "urlImagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0TGpBLkFgvEMAOTHXv-I1M08wlZraA8iJpmaJ4uSETdGQxmo4ITjTyNN6KS4nlryBEVRRcIoK1lcuHEGMWW2U8iUuqxSWFvbXCbc6HanZDUj0vvxKMPRCEPtaL8SpTmOrmwlXN7L4a3DnilbzZ2ekf90GDy8otV2IP7yjJbmThMeXHZb5DIRwRrrL2a2J8r6wVi_aU=w408-h306-k-no"
+        },
+        {
+            "nombre": "Taquería y comedor Bamas",
+            "tipo": "Taqueria",
+            "direccion": "C. 65ᴴ 1, Victoria, 97370 Kanasín, Yuc.",
+            "telefono": "+52 999 152 1363",
+            "horario": "10:00 - 06:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOTb1Q8ubjePw0YcJ-HxIelk_bPydbglNdPkWwS=w408-h306-k-no"
+        },
+        {
+            "nombre": "Restaurant Bar Mariachi",
+            "tipo": "Restaurante/Bar",
+            "direccion": "C. 14ᴬ, Francisco Villa Oriente, 97178 Mérida, Yuc.",
+            "telefono": "",
+            "horario": "11:30 - 22:00",
+            "calificacion": 3,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h73f23SIC6AxvCUnahFOOw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=256.7757&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "La Patita",
+            "tipo": "Comida Mexicana",
+            "direccion": "Calle 55 x 2 B y 2 C, Francisco Villa, 97370 Kanasín, Yuc., Mexico 55 x 2B y 2C, 97370 Kanasín, Yuc.",
+            "telefono": "+52 999 251 1606",
+            "horario": "06:00 - 24:00",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ahVJMpF_1aS-WJ71qLGi2g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=193.81114&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Restaurant Los Amos Del Camino",
+            "tipo": "Comida Mexicana",
+            "direccion": "97370, C. 1 203, Sta Rosa, Kanasín, Yuc.",
+            "telefono": "",
+            "horario": "12:00 - 12:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPtxtV6kh0Byzc6VRCQIXM4HLTYixHw22g5YHy0=w426-h240-k-no"
+        },
+        {
+            "nombre": "LA GARDEÑA",
+            "tipo": "Comida Mexicana",
+            "direccion": "POR 32 Y 37A, C. 19, Centro, 97370 Kanasín, Yuc.",
+            "telefono": "",
+            "horario": "12:00 - 12:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipP_Z3hW-SaEOE4ON-1pShjtblbRJPikzzpiLJ3i=w408-h306-k-no"
+        },
+        {
+            "nombre": "TAQUERÍA EL PAISA",
+            "tipo": "Taqueria",
+            "direccion": "Carr, Merida - Valladolid S/N, Centro, 97370 Kanasín, Yuc.",
+            "telefono": "+52 999 329 5461",
+            "horario": "06:30 - 23:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMNEVd54KeyPjgkZYsG3xB10-OgnLoSwtTlbIRf=w408-h544-k-no"
+        },
+        {
+            "nombre": "Jardín Teya",
+            "tipo": "Comida Mexicana",
+            "direccion": "Carr. Costera del Golfo 238, 97375 Tixpéhual, Yuc.",
+            "telefono": "",
+            "horario": "06:30 - 23:00",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=212Uy8CdF0yPNozW08BUxg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=342.17572&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Dinners Chin Wen Wen Chong",
+            "tipo": "Hamburguesas y snacks",
+            "direccion": "Calle 19A #114B-6 entre 6B y 6D, Gran San José, 97370 Kanasín, Yuc.",
+            "telefono": "+52 999 543 7398",
+            "horario": "06:30 - 23:30",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNiM2-yyZVJ5gnGmUhoqYe3My5n8-BdtC3-oGDg=w408-h306-k-no"
+        }
+    ]
+}

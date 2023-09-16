@@ -1,0 +1,130 @@
+{
+    "Restaurantes": [
+        {
+            "nombre": "El Bosque Restaurante",
+            "tipo": "Comida Mexicana",
+            "direccion": "Calle 111 entre 64E y 64D, Castilla Cámara, 97278 Mérida, Yuc.",
+            "telefono": "+52 999 928 0950",
+            "horario": "08:00 - 24:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMG4qRcobeWdtznhbUXk-vVPqHq-wxqO0Dn0dhv=w408-h306-k-no"
+        },
+        {
+            "nombre": "RESTAURANTE BAR 'EL MANGAL'",
+            "tipo": "Comida Mexicana",
+            "direccion": "Calle 77 591 Por 90 y 92, Sambulá, 97259 Mérida, Yuc.",
+            "telefono": "",
+            "horario": "11:00 - 20:00",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R7sDfzWi6YhqO-_oDXrssA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=42.226307&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Restaurante Terminal Dos",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 81-A 841, 01 (999) 946 11 94, CD. INDUSTRIAL, 97288 Mérida, Yuc.",
+            "telefono": "+52 999 946 1194",
+            "horario": "07:00 - 22:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMAg12tSTuC9whOtaf0EqGhF69VTMocjR9TbpOk=w408-h306-k-no"
+        },
+        {
+            "nombre": "Algo Diferente",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 65ᴮ 609, Mulsay, 97249 Mérida, Yuc.",
+            "telefono": "+52 999 194 8694",
+            "horario": "07:00 - 16:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOfuhVI5hxOIrOq7DrTVO2Os3gOC_uldc_R9rYv=w408-h306-k-no"
+        },
+        {
+            "nombre": "EL SAZON - COMIDA CASERA",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 35 Diagonal 386, 97256 Mérida, Yuc.",
+            "telefono": "+52 999 340 0753",
+            "horario": "11:00 - 15:30",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t4VIqgIxik42VM1PPAdI3Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=314.10645&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Aqui Ta Wueeno !!! Cocina Casera",
+            "tipo": "Alta cocina",
+            "direccion": "C. 62ᴬ 502S, Centro, 97000 Ejido del Centro, Yuc.",
+            "telefono": "+52 999 373 1567",
+            "horario": "11:00 - 15:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMQHmJcvMQZlkqyVqM-5SygUWOFFvztsz_Oby8R=w408-h680-k-no"
+        },
+        {
+            "nombre": "COMIDA CASERA RICH",
+            "tipo": "Comida Mexicana",
+            "direccion": "Cto. Colonias, Nueva Sambulá, 97250 Mérida, Yuc.",
+            "telefono": "+52 999 311 7978",
+            "horario": "11:00 - 17:00",
+            "calificacion": 5,
+            "urlImagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0TWkvYWJeaQlJafI76M7o6nOM9hGBI2PE1O4v6LFyueKRSglZyxY-wdJXdeLlT55mTjtdmZsJHShmvaifXCJDgHs0A4gsu8cFyX8NDaNnr1kZWEf7QTkwB-h2pNUGV_OO6Cl_UBebeut-z75kMZ7twCCWejlwLXYB5YeveJc3h53bozwV0tfrJRYtwvp7BqlzdReHI=w408-h306-k-no"
+        },
+        {
+            "nombre": "Restaurante Mexicano 'EL Caporal'",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 86 entre Calle 165, Emiliano Zapata Sur III, 97315 Mérida, Yuc.",
+            "telefono": "+52 999 931 0143",
+            "horario": "18:00 - 01:00",
+            "calificacion": 3,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipO_TbV8Q5kRE0xyT9Hh8uPHK9Bvv-ifCJOgYFaw=w408-h544-k-no"
+        },
+        {
+            "nombre": "Restaurante Los Alcatraces",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 19 418, Sin Nombre, 97288 Mérida, Yuc.",
+            "telefono": "+52 999 508 7662",
+            "horario": "07:00 - 21:00",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pSrQ57k8HdY1IMzB7uu1gw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=134.28465&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "El Rincón Del Sazón",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 97 A, Obrera, 97284 Mérida, Yuc.",
+            "telefono": "+52 554 990 4828",
+            "horario": "08:30 - 21:30",
+            "calificacion": 3,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PuQie3TKbCGaerw9ZDqkPg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=188.88368&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "EL CONVENTO",
+            "tipo": "Pollo",
+            "direccion": "C. 136 1118, entre 71B, Cinturón Verde, 97249 Mérida, Yuc.",
+            "telefono": "",
+            "horario": "12:00 - 16:00",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PuQie3TKbCGaerw9ZDqkPg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=188.88368&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "La Cocina De José",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 24 199, Xoclán López Portillo, 97246 Mérida, Yuc.",
+            "telefono": "",
+            "horario": "09:00 - 14:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPRddTjJH6LkbE8ynobbGgEbnzXhDU8CvslIbgL=w408-h725-k-no"
+        },
+        {
+            "nombre": "Che's",
+            "tipo": "Bar/Restaurante",
+            "direccion": "Merida-Uman 559 Por Calle 69 y Por Calle 71, Centro, 97000 Mérida, Yuc.",
+            "telefono": "+52 999 924 5478",
+            "horario": "20:00 - 04:00",
+            "calificacion": 3,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipM1d-PeyOL6W_qstLomgVjioyY2DSy7IvphcXjA=w408-h725-k-no"
+        },
+        {
+            "nombre": "Yutsil Restaurante fusión",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 49 entre 74 y 74A, Centro, 97000 Mérida, Yuc.",
+            "telefono": "+52 999 565 4480",
+            "horario": "13:00 - 22:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOmVXvjyqkK7KwPXZnJzu4nIilL3c7RWxVU6fBX=w408-h544-k-no"
+        }
+    ]
+}
