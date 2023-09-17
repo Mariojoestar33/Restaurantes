@@ -1,0 +1,157 @@
+{
+    "Restaurantes": [
+        {
+            "nombre": "Restaurant El Sazón De La Guera",
+            "tipo": "Comida Mexicana",
+            "direccion": "77723 Q.R.",
+            "telefono": "",
+            "horario": "09:00 - 18:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipN00zNTOyOTad_nzejQtMXvOZMNNFGLC83x0Udy=w426-h240-k-no"
+        },
+        {
+            "nombre": "Foodcleta",
+            "tipo": "Comida Mexicana",
+            "direccion": "Calle sin nombre y esquina con calle Olivo, C. Sin Nombre, Misión de las Flores, 77710 Playa del Carmen, Q.R.",
+            "telefono": "",
+            "horario": "08:30 - 13:00",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=aZwPjtAvgE1zNAcx4ievUA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=112.820885&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Antojitos Doña Marta",
+            "tipo": "Comida Mexicana",
+            "direccion": "Av Pavo Real, Villas del Sol, 77723 Playa del Carmen, Q.R.",
+            "telefono": "",
+            "horario": "16:00 - 02:00",
+            "calificacion": 3,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPiXRILf9lXM0Jq-cln_SmrxInNLe3hZspPit_t=w408-h306-k-no"
+        },
+        {
+            "nombre": "Esquina del sabor xcacel",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. Playa Chemuyil, 77723 Q.R.",
+            "telefono": "",
+            "horario": "07:00 - 24:30",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOQmAFAs7ulO7tzgwEoHTQ477LR0AL6Wrjo0w-C=w408-h544-k-no"
+        },
+        {
+            "nombre": "Taquería el buen mexicano",
+            "tipo": "Taqueria",
+            "direccion": "Villas del Sol, 77723 Playa del Carmen, Q.R.",
+            "telefono": "+52 984 234 5936",
+            "horario": "07:00 - 24:30",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=x8wSBbrVK1HFsGZo3VSQpQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=269.65552&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Antojitos Y Comidas 'La Yucateca'",
+            "tipo": "Comida Mexicana",
+            "direccion": "Av. CTM, Villas del Sol, 77723 Playa del Carmen, Q.R.",
+            "telefono": "",
+            "horario": "07:00 - 24:30",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LgBhLC0jk5YElOADKbX0IA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=36.112995&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Empanadas De Mariscos Junior",
+            "tipo": "Mariscos y Pescados",
+            "direccion": "Av. CTM, Villas del Sol, 77723 Q.R.",
+            "telefono": "",
+            "horario": "07:00 - 24:30",
+            "calificacion": 3,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TSn9JLnkJosCwRRmf7KvmA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=73.79554&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "COCINA PARA EL ALMA MARISCOS",
+            "tipo": "Mariscos y Pescados",
+            "direccion": "PRIVADA FLOR DE MANZANO, NUMERO 46 C FRACCIONAMIENTO LAS FLORES, Playa del Carmen, Q.R.",
+            "telefono": "",
+            "horario": "07:00 - 24:30",
+            "calificacion": 5,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPCVl4WGcycF0o_sj4CBLr4p1E6Y5h_92A_OFGd=w408-h543-k-no"
+        },
+        {
+            "nombre": "Taqueria el broo barbacoa de res",
+            "tipo": "Taqueria",
+            "direccion": "Av. Azulejos, Villas del Sol, 77723 Playa del Carmen, Q.R.",
+            "telefono": "+52 984 804 9356",
+            "horario": "18:00 - 03:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMY3OEtYlwMlyNW2vQJ-Bq23L65H4KoG8v8W14N=w408-h306-k-no"
+        },
+        {
+            "nombre": "Taqueria El Viejon",
+            "tipo": "Taqueria",
+            "direccion": "Av. Halcones, 77723 Q.R.",
+            "telefono": "+52 984 315 8900",
+            "horario": "18:00 - 01:30",
+            "calificacion": 3,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMMl3Ev4pg5SU5gNNVFxiyynJBftPsgMCup_LQk=w426-h240-k-no"
+        },
+        {
+            "nombre": "AMOR DE PANUCHO PDC",
+            "tipo": "Comida Mexicana",
+            "direccion": "AV. CTM PLAZA PUBLIC MARKET, LOCAL 53, REAL IBIZA, Playa del Carmen, Q.R.",
+            "telefono": "",
+            "horario": "18:00 - 01:30",
+            "calificacion": 3,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Gw7SUptkPRBwC7PlDofw1w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=41.260365&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Hamburguesas el sabritero",
+            "tipo": "Hamburguesas y snacks",
+            "direccion": "Av Pavo Real, Villas del Sol, 77723 Playa del Carmen, Q.R.",
+            "telefono": "+52 984 134 8403",
+            "horario": "13:00 - 22:00",
+            "calificacion": 5,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipN2TVGcZxbNHrIcFMZnE_1sJxGBOiN0UFsBkka6=w428-h240-k-no"
+        },
+        {
+            "nombre": "El Timon Sea Tacos & Burgers",
+            "tipo": "Hamburguesas y snacks",
+            "direccion": "Av. CTM, 77723 Playa del Carmen, Q.R.",
+            "telefono": "+52 984 209 7427",
+            "horario": "09:00 - 21:00",
+            "calificacion": 5,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipO9g-moaGzkoPCntForbt4WARemJ0WAJIAgX_iY=w408-h240-k-no-pi-0-ya64.00001-ro-0-fo100"
+        },
+        {
+            "nombre": "Tacos y Hamburguesas El Patrón",
+            "tipo": "Hamburguesas y snacks",
+            "direccion": "Av. Gavilanes en contraesquina de Bodega Aurrerá, Villas del Sol, Playa del Carmen, Q.R.",
+            "telefono": "+52 811 269 7549",
+            "horario": "09:00 - 20:00",
+            "calificacion": 5,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6FmB39qk98Epu5Dk40CTgQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=281.60165&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "La Minerva de Jalisco",
+            "tipo": "Taqueria",
+            "direccion": "Av. de los Olivos 242, Las Palmas 1, 77723 Playa del Carmen, Q.R.",
+            "telefono": "+52 984 236 3309",
+            "horario": "09:00 - 21:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMgsO1w4IZ-z8yz5tAa4f8g9zR__H_5CQlC0CtN=w408-h408-k-no"
+        },
+        {
+            "nombre": "NAYE COMEDOR",
+            "tipo": "Comida Mexicana",
+            "direccion": "Calle AZULEJOS, Quintana Roo 53, 77723 Playa del Carmen, Q.R.",
+            "telefono": "+52 984 115 8933",
+            "horario": "09:00 - 21:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOgPLXLOr1NsIU6NPkj91u8Ua-Y7O6RR45EQUax=w408-h544-k-no"
+        },
+        {
+            "nombre": "Los Dorados de Playa",
+            "tipo": "Mariscos y Pescados",
+            "direccion": "Av. CTM Mnz15 Lt.01 local M-91 Plaza Public Market, 77723 Playa del Carmen, Q.R.",
+            "telefono": "+52 984 108 4806",
+            "horario": "09:00 - 18:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipN2KGnqFH54J-ZkefKT1ipnR-lFcwDwWIJwFQai=w533-h240-k-no"
+        }
+    ]
+}
