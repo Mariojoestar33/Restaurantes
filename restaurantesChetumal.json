@@ -1,0 +1,184 @@
+{
+    "Restaurantes": [
+        {
+            "nombre": "RESTAURANTE 'LA CHAYA DEL CARIBE'",
+            "tipo": "Comida Mexicana",
+            "direccion": "Agustín Olachea #546, col, Ocho de Octubre, 77010 Chetumal, Q.R.",
+            "telefono": "+52 983 110 7546",
+            "horario": "07:00 - 15:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOVTNs1zLTId6E4SwUKWS-e0TMEW3M-oh1gZVlG=w533-h240-k-no"
+        },
+        {
+            "nombre": "Don Aguachile - Restaurante Bar",
+            "tipo": "Restaurante/Bar",
+            "direccion": "Av. Javier Rojo Gómez #286, entre san salvador y justo sierra, Col. Miraflores, 77027 Chetumal, Q.R.",
+            "telefono": "+52 983 155 8609",
+            "horario": "14:00 - 23:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPEqjWrO678s8v28fBvtLCVdfopv8waF9uTiknc=w408-h544-k-no"
+        },
+        {
+            "nombre": "ANTOJITOS DOÑA BLANCA",
+            "tipo": "Comida Mexicana",
+            "direccion": "Flor de Liz, Jardines, 77026 Chetumal, Q.R.",
+            "telefono": "",
+            "horario": "07:00 - 14:00",
+            "calificacion": 5,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOUKmvLfGJCFFajGV-TpPM5mRzHp9iqlIWHzjgs=w408-h306-k-no"
+        },
+        {
+            "nombre": "Restaurante Bar 'El Tunel Del Tiempo'",
+            "tipo": "Comida Mexicana",
+            "direccion": "San Salvador 485, Ocho de Octubre, 77028 Chetumal, Q.R.",
+            "telefono": "",
+            "horario": "12:00 - 21:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNLa_rlg9olFVzIqFxK6yXT9iUxQvq7G5LSu6B6=w426-h240-k-no"
+        },
+        {
+            "nombre": "El Rincón Tarasco",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. Claveles 122, Jardines, 77026 Chetumal, Q.R.",
+            "telefono": "",
+            "horario": "07:30 - 14:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOfJyTeMt_jwuOtGWwm6nHkSRS-vXQHrdkpILvD=w408-h544-k-no"
+        },
+        {
+            "nombre": "Lonchería Las 3 L",
+            "tipo": "Comida Mexicana",
+            "direccion": "Cesar Vallejo 322, 336, 77027 Chetumal, Q.R.",
+            "telefono": "+52 983 125 9890",
+            "horario": "07:00 - 24:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipN8v2f7vlKdpupmImNHgfOdQUSJk07shhYBfKTt=w408-h413-k-no"
+        },
+        {
+            "nombre": "LonTaquería La Popular",
+            "tipo": "Taqueria",
+            "direccion": "Av Sicilia 224C, Col Italia, 77035 Chetumal, Q.R.",
+            "telefono": "",
+            "horario": "07:00 - 24:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMSAsYR_tdL-kykQoRl_sYpPop4v6lSXxdBnTHz=w408-h306-k-no"
+        },
+        {
+            "nombre": "Asadero La Jarochita",
+            "tipo": "Taqueria",
+            "direccion": "Av Bugambilias con, Flor de Mayo fraccionamiento, Jardines, 77026 Chetumal, Q.R.",
+            "telefono": "+52 983 132 4219",
+            "horario": "11:30 - 19:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipObAFvaxusq8jVbGTk32TuXrzUAZRgRLbryMj05=w408-h883-k-no"
+        },
+        {
+            "nombre": "Alitas El Negro",
+            "tipo": "Alitas y snacks",
+            "direccion": "And. Oro 117, Fovissste 4 etapa, 77026 Chetumal, Q.R.",
+            "telefono": "+52 983 733 4505",
+            "horario": "16:00 - 23:30",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPI7durXGhf1GypSuSLwRzCRFFIl_ICGrZ734nr=w456-h240-k-no"
+        },
+        {
+            "nombre": "Tortas y ceviches don cangrejo",
+            "tipo": "Mariscos y Pescados",
+            "direccion": "C. Rosas 143, Jardines, 77013 Chetumal, Q.R.",
+            "telefono": "+52 983 166 5866",
+            "horario": "08:00 - 17:00",
+            "calificacion": 5,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipP4fL_pcEx4YinuT8rWCOag6kk6ts2O8pCFtv9x=w426-h240-k-no"
+        },
+        {
+            "nombre": "Tacos 'El Gallero'",
+            "tipo": "Taqueria",
+            "direccion": "ocho de 77028, Av. Javier Rojo Gómez 306, Ocho de Octubre, 77028 Chetumal, Q.R.",
+            "telefono": "+52 983 168 3300",
+            "horario": "08:00 - 17:00",
+            "calificacion": 5,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOQZNCM0Yv8H-T-wbhjtfYu-iw0NzQ-9-x23Kvb=w408-h306-k-no"
+        },
+        {
+            "nombre": "Loncheria Carlitos",
+            "tipo": "Comida Mexicana",
+            "direccion": "Av. 4 de Marzo, Ocho de Octubre, 77028 Chetumal, Q.R.",
+            "telefono": "+52 983 117 8557",
+            "horario": "16:00 - 23:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOgPxr2xTxy_uvJIjeOnxy7kC5yKP7qOG_OF_OC=w408-h498-k-no"
+        },
+        {
+            "nombre": "Taqueria el chahuistle",
+            "tipo": "Taqueria",
+            "direccion": "Av. Fidel Velázquez 724, Jardines, 77026 Chetumal, Q.R.",
+            "telefono": "",
+            "horario": "16:00 - 23:00",
+            "calificacion": 5,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMgHuLnvRqpoOuP9gsajvViWMr1sdr3fVuU2wU4=w408-h545-k-no"
+        },
+        {
+            "nombre": "Tortas y Tacos de Igor igor grill",
+            "tipo": "Comida Mexicana",
+            "direccion": "Av. Adolfo López Mateos, Col Italia, 77030 Chetumal, Q.R.",
+            "telefono": "",
+            "horario": "08:30 - 13:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMwOclQCiqm0nKsBi8XV-ao8LLqa6jYT6pmeDow=w427-h240-k-no"
+        },
+        {
+            "nombre": "Taqueria el ranchero",
+            "tipo": "Taqueria",
+            "direccion": "Av. Fidel Velázquez 694, Jardines, 77026 Chetumal, Q.R.",
+            "telefono": "",
+            "horario": "12:00 - 24:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPVCFgTOb4-9qIWIoctJyvJrZMCm5KJE4pgXE-W=w408-h725-k-no"
+        },
+        {
+            "nombre": "Tacos & Tortas Memorables",
+            "tipo": "Taqueria",
+            "direccion": "Jardines, 77026 Chetumal, Q.R.",
+            "telefono": "+52 983 177 9357",
+            "horario": "06:30 - 02:30",
+            "calificacion": 5,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipO8PrtYZqi2_HW5o_2LbRl49nm_ymvB1DIFZ0vj=w426-h240-k-no"
+        },
+        {
+            "nombre": "Pizza & Burger Sweet",
+            "tipo": "Pizzeria",
+            "direccion": "Av. Justo Sierra N°554 Esquina, Agustín Olachea, 77028 Chetumal, Q.R.",
+            "telefono": "+52 983 119 8225",
+            "horario": "06:30 - 02:30",
+            "calificacion": 3,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNsY1E-lyw_iK9S29C12OgnmnUppmtEiFT0orKM=w408-h306-k-no"
+        },
+        {
+            "nombre": "Hot~dogs y hamburguesas ANGEL MATEO",
+            "tipo": "Hamburguesas y snacks",
+            "direccion": "Avenida Bugambilias & Flor de Mayo, Jardines, 77026 Chetumal, Q.R.",
+            "telefono": "",
+            "horario": "06:30 - 02:30",
+            "calificacion": 5,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vLvyvepj3s-CFpmvMvBSlQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=27.646654&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Loncheria De La Fuente",
+            "tipo": "Comida Mexicana",
+            "direccion": "Mercado Andrés Quintana Roo, Av. Bugambilias, Jardines, 77026 Chetumal, Q.R.",
+            "telefono": "+52 983 111 1064",
+            "horario": "06:00 - 13:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipM4C5sJVJbnFk-6IpPku775-vi16ArzcCXYLiwo=w426-h240-k-no"
+        },
+        {
+            "nombre": "Frank Pizzas",
+            "tipo": "Pizzeria",
+            "direccion": "320, Av. Bugambilias, Av. Javier Rojo Gómez &, 77028 Chetumal, Q.R.",
+            "telefono": "+52 983 154 2986",
+            "horario": "11:00 - 21:30",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOdm0hvA8-tv9hLbaB6oeB4reQV60VE3nILI3aC=w408-h306-k-no"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "Restaurantes": [
+        {
+            "nombre": "Bote de Leche",
+            "tipo": "Comida Mexicana",
+            "direccion": "Av 1, Magisterial, 77935 Bacalar, Q.R.",
+            "telefono": "",
+            "horario": "05:00 - 22:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPaHRt8iTFzlZ7LY8CktrsWQq6btBpQt3fV9OEV=w408-h306-k-no"
+        },
+        {
+            "nombre": "Cocina Orizaba",
+            "tipo": "Comida Mexicana",
+            "direccion": "Centro, 77930 Bacalar, Q.R.",
+            "telefono": "",
+            "horario": "08:00 - 16:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipO_NrMlxWmoBao0apx749EJCNIqvtxQu31w4eMx=w426-h240-k-no"
+        },
+        {
+            "nombre": "México Gourmet",
+            "tipo": "Comida Mexicana",
+            "direccion": "Benito Juárez, 77930 Bacalar, Q.R.",
+            "telefono": "+52 983 137 1386",
+            "horario": "10:00 - 22:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNpstjUEb1jmVMGqJMD3k4TtkGdsQMmn-U1RkKT=w408-h306-k-no"
+        },
+        {
+            "nombre": "Costera 28",
+            "tipo": "Comida Mexicana",
+            "direccion": "Av 1, C. 28 esquina, Magisterial, 77930 Bacalar, Q.R.",
+            "telefono": "+52 983 177 9518",
+            "horario": "05:00 - 22:30",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOw66lZEwIVio2Rv2bVLWS0cUdOTY-yQdsT4ACe=w408-h510-k-no"
+        },
+        {
+            "nombre": "Restaurante La Botika",
+            "tipo": "Comida Mexicana",
+            "direccion": "carretera chet-bacalar, 77961 Xul-Ha, Q.R.",
+            "telefono": "+52 983 106 1751",
+            "horario": "05:00 - 22:30",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8j-VdgEdqBWpw00xOAeTIg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=99.46549&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "Mestizos",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 22, Centro, 77930 Bacalar, Q.R.",
+            "telefono": "",
+            "horario": "05:00 - 22:30",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPXVk7kum3Ep8U9ZMoNRtCX7xHp6dncI4CtxE5F=w408-h306-k-no"
+        },
+        {
+            "nombre": "Restaurant Familiar Los Cocos",
+            "tipo": "Comida Mexicana",
+            "direccion": "77933 Bacalar, Q.R.",
+            "telefono": "",
+            "horario": "05:00 - 22:30",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h8MISzlqJlybgElDhGO9XQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=258.24023&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "RESTAURANTE 'HAU'",
+            "tipo": "Mariscos y Pescados",
+            "direccion": "Av. 9 entre C 16 y C18, 77930 Bacalar, Q.R.",
+            "telefono": "+52 983 155 3026",
+            "horario": "06:30 - 21:30",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipO5YYciikBt52K3xwlH8l9Px_EZW-v_5XMG6KwB=w426-h240-k-no"
+        },
+        {
+            "nombre": "Restaurante La Selva BACALAR",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 22, Centro, 77930 Bacalar, Q.R.",
+            "telefono": "",
+            "horario": "06:30 - 21:30",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-IzAcUGAKeJLhzZjJQmU5w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=121.37783&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "La Piña",
+            "tipo": "Comida Mexicana",
+            "direccion": "Av 3 206, Centro, 77935 Bacalar, Q.R.",
+            "telefono": "",
+            "horario": "15:00 - 22:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipM74CoAoEg44X378P2gbT2lJOXk1qc_GTJn6wuB=w408-h544-k-no"
+        },
+        {
+            "nombre": "El Mexicano",
+            "tipo": "Comida Mexicana",
+            "direccion": "C. 22 824, Centro, 77930 Bacalar, Q.R.",
+            "telefono": "",
+            "horario": "09:00 - 22:00",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=anAvfpb4Q-Ah-GIGqtWUPA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=177.3285&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "El Pejelagarto",
+            "tipo": "Mariscos y Pescados",
+            "direccion": "C. 19 Libramiento 92, Luis Donaldo Colosio, 77935 Bacalar, Q.R.",
+            "telefono": "+52 983 834 2479",
+            "horario": "07:00 - 19:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipNtwuJDojMBU6I00xciYDs6jnOwwIlELmjQx85E=w408-h306-k-no"
+        },
+        {
+            "nombre": "Madre Masa",
+            "tipo": "Comida Mexicana",
+            "direccion": "Av 1 Número 958-Local 2, Mario Villanueva Madrid, 77935 Bacalar, Q.R.",
+            "telefono": "",
+            "horario": "09:00 - 17:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipMPMLsQrPX2DARoTRcvb2RN3o-WXVfAqaufQzR9=w426-h240-k-no"
+        },
+        {
+            "nombre": "Bar cool",
+            "tipo": "Restaurante/Bar",
+            "direccion": "C5, S/N, 20 y 22, Centro, 77930 Bacalar, Q.R.",
+            "telefono": "+52 983 212 2069",
+            "horario": "08:00 - 23:00",
+            "calificacion": 2,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPm5lQ_3MRIkr4QMHgO2hc7NJjxeFDsoYvicJGB=w408-h306-k-no"
+        },
+        {
+            "nombre": "Restaurante La Troza",
+            "tipo": "Comida Mexicana",
+            "direccion": "77933 Bacalar, Q.R.",
+            "telefono": "",
+            "horario": "09:00 - 18:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPsthqOSff9GbFnKZgo_atClQ8oTgWKawXXJfrf=w408-h306-k-no"
+        },
+        {
+            "nombre": "Restaurant Bar Familiar",
+            "tipo": "Comida Mexicana",
+            "direccion": "Magisterial, 77933 Bacalar, Q.R.",
+            "telefono": "",
+            "horario": "09:00 - 18:00",
+            "calificacion": 4,
+            "urlImagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iPMZgQk9SZoFljFnVvAk-A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=293.66302&pitch=0&thumbfov=100"
+        },
+        {
+            "nombre": "La Catrina Bacalar",
+            "tipo": "Comida Mexicana",
+            "direccion": "77930 Calle 1 181 entre 26 y 28, Mario Villanueva Madrid, 77935 Bacalar, Q.R.",
+            "telefono": "",
+            "horario": "17:00 - 02:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOi5SGMHhAoQwpkhlTNnUq436KFexEk3F67K2C5=w408-h596-k-no"
+        },
+        {
+            "nombre": "Los de Atlixco",
+            "tipo": "Comida Mexicana",
+            "direccion": "Adolfo López Mateos 332, Centro, 77930 Bacalar, Q.R.",
+            "telefono": "+52 983 127 9904",
+            "horario": "08:00 - 22:30",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipN4zo33vTtFmIPdvCIP7Nq9Zom5oHZIl5SGLyle=w426-h240-k-no"
+        },
+        {
+            "nombre": "La Cabañita Grill & Cantina",
+            "tipo": "Comida Mexicana",
+            "direccion": "5 entre 26 y 28, 77935 Bacalar, Q.R.",
+            "telefono": "+52 983 127 7425",
+            "horario": "08:00 - 23:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipPjW5BGOPj3-rUp5v_BRfiPOjNACd_0M1_50dIv=w533-h240-k-no"
+        },
+        {
+            "nombre": "La Playita",
+            "tipo": "Mariscos y Pescados",
+            "direccion": "Av. 1 765 (Costera, C. 26 Esq, 77930 Bacalar, Q.R.",
+            "telefono": "+52 983 834 3068",
+            "horario": "12:00 - 23:00",
+            "calificacion": 4,
+            "urlImagen": "https://lh5.googleusercontent.com/p/AF1QipOGp6Buh49yITNcmf_fo8M0lTYEef2dq2MfJ0JO=w408-h306-k-no"
+        }
+    ]
+}
